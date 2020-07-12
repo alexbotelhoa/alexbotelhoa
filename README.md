@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/44276302/87254285-f5027800-c457-11ea-9b7d-8cecd7033a91.jpg">
+  [Fundo-GitHub]
 </h1>
 
 <p align="center">
