@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-🐘⚛️ PHP | Laravel | Bootstrap | Javascript | Typescript | NodeJS | ReactJS | React Native | SQL | NoSQL | HTML | CSS | GIT
+🐘 PHP | Laravel | Bootstrap ⚛️ Javascript | Typescript | NodeJS | ReactJS 📱 React Native 💾 SQL | NoSQL 💻 HTML | CSS | GIT
 </p>
 
 <p align="center">
