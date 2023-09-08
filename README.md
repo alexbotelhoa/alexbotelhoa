@@ -9,11 +9,27 @@
   </a>
 </div>
 
+Experiência com as tecnologias:
+<div style="display: inline_block">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+</div>
+
 <p align="center">
 🐘 PHP | Laravel | Bootstrap &nbsp; 🅰️ Angular | Typescript | React &nbsp; 📱 React Native &nbsp; 💾 SQL | NoSQL &nbsp; 💻 HTML | CSS
 </p>
 
 <p align="center">
+  <a href="mailto:alexbotelho1@gmail.com" alt="GMail">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&&logo=gmail&logoColor=red" />
+  </a>
   <a href="https://github.com/alexbotelhoa" alt="GitHub">
     <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white" />
   </a>
