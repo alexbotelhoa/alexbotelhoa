@@ -67,12 +67,6 @@ Experiência com as tecnologias:
 
 ##
 
-<div style="display: inline_block">
-🐘 PHP | Laravel | Bootstrap &nbsp; 🅰️ Angular | Typescript | React &nbsp; 📱 React Native &nbsp; 💾 SQL | NoSQL &nbsp; 💻 HTML | CSS
-</div>
-
-##
-
 <p align="center">
   <a href="mailto:alexbotelho1@gmail.com" alt="GMail">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&&logo=gmail&logoColor=red" />
