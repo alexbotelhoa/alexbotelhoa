@@ -2,6 +2,13 @@
   <img src="https://user-images.githubusercontent.com/44276302/87254622-2aa86080-c45a-11ea-9b8a-46cd9d052153.jpg" />
 </h1>
 
+<div align="center">
+  <a href="https://github.com/MateusKern">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alexbotelhoa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbotelhoa&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
+
 <p align="center">
 🐘 PHP | Laravel | Bootstrap &nbsp; 🅰️ Angular | Typescript | React &nbsp; 📱 React Native &nbsp; 💾 SQL | NoSQL &nbsp; 💻 HTML | CSS
 </p>
