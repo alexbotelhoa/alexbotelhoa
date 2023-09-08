@@ -22,9 +22,9 @@ Experiência com as tecnologias:
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 
-<p align="center">
+<div style="display: inline_block">
 🐘 PHP | Laravel | Bootstrap &nbsp; 🅰️ Angular | Typescript | React &nbsp; 📱 React Native &nbsp; 💾 SQL | NoSQL &nbsp; 💻 HTML | CSS
-</p>
+</div>
 
 <p align="center">
   <a href="mailto:alexbotelho1@gmail.com" alt="GMail">
